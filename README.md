@@ -36,8 +36,6 @@
    ./FindTheKing
    ```
 
-Alternatively, you can run the provided executable `FindTheKing` directly if you're using a Windows system.
-
 ## Usage
 When you run the program, follow the on-screen prompts to:
 - Place your bet.
